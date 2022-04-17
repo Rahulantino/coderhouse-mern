@@ -1,0 +1,22 @@
+.text {
+  font-size: 22px;
+  font-weight: normal;
+  line-height: 1.6;
+  color: #c4c5c5;
+  margin-bottom: 30px;
+}
+
+.cardWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.signinWrapper {
+  margin-top: 20px;
+}
+
+.signinWrapper > span {
+  color: #0077ff;
+}
